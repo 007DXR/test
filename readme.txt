@@ -1,3 +1,9 @@
-hello world
-i love the world
-learn to use github
+git init
+git add readme.txt
+git commit -m ".."
+git status
+git log
+git reflog
+git reset --hard head~100
+git reset --hard 1230ad
+cat readme.txt
