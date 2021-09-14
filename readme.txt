@@ -10,3 +10,4 @@ cat readme.txt
 git diff HEAD -- readme.txt
 git checkout -- test.txt
 git push origin master
+delete
